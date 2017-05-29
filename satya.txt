@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 0E15-CD37
-
- Directory of C:\Users\Wlkingtree\Desktop\MyProject
-
-05/29/2017  11:29 PM    <DIR>          .
-05/29/2017  11:29 PM    <DIR>          ..
-05/29/2017  11:29 PM                 0 satya.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  236,676,149,248 bytes free
+satyasarma
